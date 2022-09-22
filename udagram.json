@@ -1,0 +1,26 @@
+[
+	{
+		"ParameterKey": "Environmentname",
+		"ParameterValue": "ProjectUdagram"
+	},
+	{
+		"ParameterKey": "VPCCIDR",
+		"ParameterValue": "10.0.0.0/16"
+	},
+	{
+		"ParameterKey": "UPublicSubnet1CIDR",
+		"ParameterValue": "10.0.0.0/24"
+	},
+	{
+		"ParameterKey": "UPublicSubnet2CIDR",
+		"ParameterValue": "10.0.1.0/24"
+	},
+	{
+		"ParameterKey": "UPrivateSubnet1CIDR",
+		"ParameterValue": "10.0.2.0/24"
+	},
+	{
+		"ParameterKey": "UPrivateSubnet2CIDR",
+		"ParameterValue": "10.0.3.0/24"
+	}
+]
